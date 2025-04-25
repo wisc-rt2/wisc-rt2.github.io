@@ -21,6 +21,9 @@ jobs:
           hugo-version: '0.146.0'
           extended: true
 
+      - name: Pull theme submodules
+        run: git submodule update --init --recursive
+
       - name: Build site
         run: hugo --minify
 
