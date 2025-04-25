@@ -1,4 +1,5 @@
-baseURL: https://example.org/
+baseURL: "https://wisc-rt2.github.io/"
 languageCode: en-us
 title: Robot Teaching and Teaming Laboratory
 theme: ["PaperMod"]
+publishDir: "docs"
