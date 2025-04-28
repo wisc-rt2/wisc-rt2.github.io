@@ -3,3 +3,34 @@ languageCode: en-us
 title: Robot Teaching and Teaming Laboratory
 theme: ["PaperMod"]
 publishDir: "docs"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+
+params:
+  label:
+    text: "Robot Teaching and Teaming Laboratory"
+    icon: "RT2_icon_only.png"
+    iconHeight: 50  # optional, defaults to 30px
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 5
+    - identifier: people
+      name: People
+      url: /people/
+      weight: 10
+    - identifier: publications
+      name: Publications
+      url: /publications/
+      weight: 20
+    - identifier: joinus
+      name: Join Us
+      url: /joinus/
+      weight: 30
