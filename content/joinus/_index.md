@@ -18,8 +18,11 @@ If you are not at the University of Wisconsin–Madison and are interested in jo
 
 If you are currently at the University of Wisconsin–Madison, you can learn more about research opportunities in our lab as *undergraduate* or *graduate* researchers by emailing [**Professor Mike Hagenow**](mailto:mhagenow@wisc.edu).
 
+Talk about undergraduates and lab expectations
 ###
 
 ### Postdoctoral Researcher Positions
 
 We are not actively looking for any postdoctoral researchers, however, 
+
+### Lab Expectations, Culture, and Mentorship
