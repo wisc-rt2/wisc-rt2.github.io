@@ -113,7 +113,7 @@ title: ""
   <p><i>Universal Robots UR5e</i></p>
 </div>
 
-<div style="flex: 1 1 30%; text-align: center;">
+<!-- <div style="flex: 1 1 30%; text-align: center;">
   <img src="/people/ur5e.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
   <h3>Robot 2</h3>
   <p><i>Universal Robots UR5e</i></p>
@@ -123,11 +123,11 @@ title: ""
      <img src="/people/ur5e.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
   <h3>Robot 3</h3>
   <p><i>Universal Robots UR5e</i></p>
-</div>
+</div> -->
 </div>
 
 
-## RT² Alumni
+<!-- ## RT² Alumni
 
 <ul style="list-style-type: none; padding-left: 0;">
   <li style="display: flex; align-items: center; margin-bottom: 0.5rem;">
@@ -148,4 +148,4 @@ title: ""
       <i class="fas fa-globe"></i>
     </a>
   </li>
-</ul>
+</ul> -->
