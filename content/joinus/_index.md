@@ -8,7 +8,7 @@ hideTitle: true
 
 ### What Do We Look For in the Lab?
 We are a full-stack robotics lab focused on designing technologies (algorithms, interfaces, and systems) for people. Every project is different, but our work generally benefits from skills in both computer science and engineering. While not all of these skills are required -- we are excited to teach and work with students who are eager to learn -- the following will be useful for conducting research in our lab:
-- Robot control, programming, and perception (e.g., inverse kinematics, path planning, managing and calculating transformations, ROS, impedance control, visual encoders/features, force-torque sensing and filtering)
+- Robot control, programming, and perception (e.g., inverse kinematics, path planning, managing and calculating transformations, ROS/Ubuntu, impedance control, visual encoders/features, force-torque sensing and filtering) – we deploy our work on robot hardware and test it on tasks representative of domains such as manufacturing.
 - ML/AI/algorithms (e.g., Python/C++, PyTorch training/fine-tuning generative AI models such as diffusion models and transformers, implementing algorithms using SciPy/NumPy) – we develop learning algorithms and shared autonomy approaches that leverage state-of-the-art AI/ML.
 - Physical prototyping (e.g., CAD, 3D printing, laser cutting) – we often build custom tools for the end of our robots, new input devices, and representative task setups.
 - Designing and conducting user studies (quantitative and qualitative) – we evaluate our work in user studies, and when possible, run studies with domain experts.

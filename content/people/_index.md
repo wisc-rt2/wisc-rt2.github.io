@@ -9,7 +9,7 @@ title: ""
   <img src="/people/hagenow.jpg" alt="Director" style="border-radius: 8px; width: 250px; height: 250px; object-fit: cover; margin-right: 20px">
   <div style="margin-top: -20px;line-height: 1.2;">
     <h2 >Mike Hagenow</h2>
-    <p><b>Assistant Professor</b><br>Department of Computer Sciences<br>University of Wisconsin–Madison</p>
+    <p><b>Incoming Assistant Professor</b><br>Department of Computer Sciences<br>University of Wisconsin–Madison</p>
     <ul>
         <li><b>Postdoc</b> @ MIT CSAIL </li>
         <li><b>Ph.D.</b> @ University of Wisconsin - Madison <br>(Mechanical Engineering)</li>
@@ -28,35 +28,35 @@ title: ""
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: flex-start;">
 
 <div style="flex: 1 1 30%; text-align: center;">
-<img src="/people/pirate_hagenow.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+<img src="/people/placeholder.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
   <h3>Your name here!</h3>
   <p>Research Interest: TBD</p>
   <p>
-    <a href="https://www.hageneaux.com/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
-      <a href="https://scholar.google.com/citations?user=pvBZ1KAAAAAJ" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp;
-      <a href="mailto:mhagenow@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
+    <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
+      <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp;
+      <a href="https://wisc-rt2.github.io/people/" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
   </p>
 </div>
 
 <div style="flex: 1 1 30%; text-align: center;">
-  <img src="/people/astronaut_hagenow.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <img src="/people/placeholder.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
   <h3>Your name here!</h3>
   <p>Research Interest: TBD</p>
   <p>
-    <a href="https://www.hageneaux.com/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
-      <a href="https://scholar.google.com/citations?user=pvBZ1KAAAAAJ" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp;
-      <a href="mailto:mhagenow@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
+    <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
+      <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp;
+      <a href="https://wisc-rt2.github.io/people/" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
   </p>
 </div>
 
 <div style="flex: 1 1 30%; text-align: center;">
-  <img src="/people/rockstar_hagenow.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <img src="/people/placeholder.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
   <h3>Your name here!</h3>
   <p>Research Interest: TBD</p>
   <p>
-    <a href="https://www.hageneaux.com/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
-      <a href="https://scholar.google.com/citations?user=pvBZ1KAAAAAJ" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp;
-      <a href="mailto:mhagenow@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
+    <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
+      <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp;
+      <a href="https://wisc-rt2.github.io/people/" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
   </p>
 </div>
 
@@ -67,39 +67,38 @@ title: ""
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: flex-start;">
 
 <div style="flex: 1 1 30%; text-align: center;">
-  <img src="/people/unclesam_hagenow.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <img src="/people/placeholder.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
   <h3>Your name here!</h3>
   <p>Research Interest: TBD</p>
   <p>
-    <a href="https://www.hageneaux.com/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
-      <a href="https://scholar.google.com/citations?user=pvBZ1KAAAAAJ" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp;
-      <a href="mailto:mhagenow@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
+    <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
+      <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp;
+      <a href="https://wisc-rt2.github.io/people/" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
   </p>
 </div>
 
 <div style="flex: 1 1 30%; text-align: center;">
-  <img src="/people/unclesam_hagenow.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <img src="/people/placeholder.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
   <h3>Your name here!</h3>
   <p>Research Interest: TBD</p>
   <p>
-    <a href="https://www.hageneaux.com/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
-      <a href="https://scholar.google.com/citations?user=pvBZ1KAAAAAJ" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp;
-      <a href="mailto:mhagenow@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
+    <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
+      <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp;
+      <a href="https://wisc-rt2.github.io/people/" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
   </p>
 </div>
 
 <div style="flex: 1 1 30%; text-align: center;">
-  <img src="/people/unclesam_hagenow.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <img src="/people/placeholder.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
   <h3>Your name here!</h3>
   <p>Research Interest: TBD</p>
   <p>
-    <a href="https://www.hageneaux.com/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
-      <a href="https://scholar.google.com/citations?user=pvBZ1KAAAAAJ" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp;
-      <a href="mailto:mhagenow@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
+    <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
+      <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp;
+      <a href="https://wisc-rt2.github.io/people/" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
   </p>
 </div>
 
-\* <b>Fun fact</b>: Uncle Sam was born in Arlington, MA (where Mike lived while working at MIT)
 
 </div>
 
@@ -109,7 +108,7 @@ title: ""
 
 <div style="flex: 1 1 30%; text-align: center;">
    <img src="/people/ur5e.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
-  <h3>Robot</h3>
+  <h3>Robot (Name Pending)</h3>
   <p><i>Universal Robots UR5e</i></p>
 </div>
 
