@@ -19,6 +19,16 @@ Our lab develops *algorithms, interfaces, and full-stack robot systems*. A major
 Please check out the [Publications](/publications/) page to learn more about recently published research and visit the [Join Us](/joinus/) page if you are interested in getting involved in research.
 
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXB50E6325"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXB50E6325');
+</script>
+
 
 
 <!-- ### Recent News -->

@@ -45,3 +45,13 @@ Prospective undergraduate researchers should [reach out to Prof. Hagenow](mailto
 We are not actively looking for any postdoctoral researchers or visiting scholars, however, if you are a strong fit for the RT² lab, please [email Prof. Hagenow](mailto:mhagenow@wisc.edu) with your CV, description of past research, goals in seeking a postdoc/visiting position, and funding situation (if applicable).
 
 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXB50E6325"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXB50E6325');
+</script>
