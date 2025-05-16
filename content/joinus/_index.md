@@ -13,7 +13,7 @@ We are a full-stack robotics lab focused on designing technologies (algorithms, 
 - Physical prototyping (e.g., CAD, 3D printing, laser cutting) – we often build custom tools for the end of our robots, new input devices, and representative task setups.
 - Designing and conducting user studies (quantitative and qualitative) – we evaluate our work in user studies, and when possible, run studies with domain experts.
 
-You can find a copy of Prof. Hagenow’s advising statement [here](https://drive.google.com/file/d/1Bas8sE0B41a6UkjIMLP98X7avRUz0T6a/view?usp=sharing). 
+<!-- You can find a copy of Prof. Hagenow’s advising statement [here](https://drive.google.com/file/d/1Bas8sE0B41a6UkjIMLP98X7avRUz0T6a/view?usp=sharing).  -->
 
 ### Prospective PhD and MS Students
 Prospective graduate students who are not currently at UW-Madison are encouraged to apply directly to the CS MS/PhD program. You can learn more about the program [here](https://www.cs.wisc.edu/grad/programs/admissions/). We are not able to admit students directly, so please follow the department’s admission guidelines. If you are interested in RT², please mention working with Prof. Mike Hagenow in your application. The graduate school offers a limited number of fee waivers (check [here]( https://grad.wisc.edu/apply/fee-grant/) to see if you are eligible).
