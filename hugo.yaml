@@ -9,6 +9,10 @@ markup:
     renderer:
       unsafe: true
 
+      
+params:
+  assets:
+    favicon: "favicon.ico"
 
 params:
   label:
