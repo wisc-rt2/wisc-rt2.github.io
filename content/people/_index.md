@@ -9,7 +9,7 @@ title: ""
   <img src="/people/hagenow.jpg" alt="Director" style="border-radius: 8px; width: 250px; height: 250px; object-fit: cover; margin-right: 20px">
   <div style="margin-top: -20px;line-height: 1.2;">
     <h2 >Mike Hagenow</h2>
-    <p><b>Incoming Assistant Professor</b><br>Department of Computer Sciences<br>University of Wisconsin–Madison</p>
+    <p><b>Assistant Professor</b><br>Department of Computer Sciences<br>University of Wisconsin–Madison</p>
     <ul>
         <li><b>Postdoc</b> @ MIT CSAIL </li>
         <li><b>Ph.D.</b> @ University of Wisconsin - Madison <br>(Mechanical Engineering)</li>
@@ -107,22 +107,22 @@ title: ""
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: flex-start;">
 
 <div style="flex: 1 1 30%; text-align: center;">
-   <img src="/people/ur5e.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
-  <h3>Robot (Name Pending)</h3>
-  <p><i>Universal Robots UR5e</i></p>
-</div>
-
-<!-- <div style="flex: 1 1 30%; text-align: center;">
-  <img src="/people/ur5e.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
-  <h3>Robot 2</h3>
-  <p><i>Universal Robots UR5e</i></p>
+   <img src="/people/snow.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <h3><a href="https://en.wikipedia.org/wiki/John_Snow">Snow</a></h3>
+  <p><i>UFactory xArm 6</i></p>
 </div>
 
 <div style="flex: 1 1 30%; text-align: center;">
-     <img src="/people/ur5e.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
-  <h3>Robot 3</h3>
-  <p><i>Universal Robots UR5e</i></p>
-</div> -->
+   <img src="/people/mikhail.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <h3><a href="https://en.wikipedia.org/wiki/Mikhail_Dolivo-Dobrovolsky">Mikhail</a></h3>
+  <p><i>UFactory xArm 6</i></p>
+</div>
+
+<div style="flex: 1 1 30%; text-align: center;">
+   <img src="/people/kanade.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <h3><a href="https://roboticsarchive.library.cmu.edu/node/100345?search_api_fulltext=navlab">Kanade</a></h3>
+  <p><i>UFactory xArm 6</i></p>
+</div>
 </div>
 
 
