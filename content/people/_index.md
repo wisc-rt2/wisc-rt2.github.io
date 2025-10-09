@@ -133,11 +133,11 @@ title: ""
 </div>
 
 <div style="flex: 1 1 30%; text-align: center;">
-  <img src="/people/placeholder.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <img src="/people/tyler.jpg" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
   <h3>Tyler Stevenson</h3>
   <!-- <p>Research Interest: TBD</p> -->
   <p>
-    <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
+    <a href="http://linkedin.com/in/t-stevenson" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
       <!-- <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=amdLJBQAAAAJ" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp; -->
       <a href="mailto:tnstevenson@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
   </p>
