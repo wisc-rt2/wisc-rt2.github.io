@@ -17,21 +17,21 @@ We are a full-stack robotics lab focused on designing technologies (algorithms, 
 
 ### Prospective PhD and MS Students
 
-> **### We're recruiting Ph.D. students! (for Fall 2026)**
+> **We're recruiting Ph.D. students (for Fall 2026)!**
 >
 > If you’re interested in joining RT², please apply to the **UW–Madison CS MS/PhD program (Due 12/15)**.  
 > Program details: https://www.cs.wisc.edu/grad/programs/admissions/  
 > Fee waiver info (if eligible): https://grad.wisc.edu/apply/fee-grant/
 >
 > **Application note:** If my name does not appear in the system, list **Prof. Mike Hagenow** under “Other” and mention me in your statement. 
->
-> **After you apply**, or if you are already a UW student, email me with subject  
-> **\[Prospective MS/PhD Student\]**, including:
-> - Your CV
-> - Past experiences in robotics/ML/engineering
-> - Relevant skills from the ‘What Do We Look For in the Lab’ section
-> - Any previous research publications – and your role in the research (note: this is not a requirement to join the lab)
-> - A paragraph on why you want to join the lab
+
+ **After you apply**, or if you are already a UW student, email me with subject  
+ **\[Prospective MS/PhD Student\]**, including:
+ - Your CV
+ - A paragraph on why you want to join the lab
+ - Past experiences in robotics/ML/engineering
+ - Relevant skills from the ‘What Do We Look For in the Lab’ section
+ - Any previous research publications – and your role in the research (note: this is not a requirement to join the lab)
 
 Due to the high volume of interest, we may not be able to respond to every inquiry (though I will certainty do my best to do so).
 <!-- 
@@ -46,16 +46,15 @@ Each year, we generally recruit undergraduate researchers to join our lab. We vi
 
 Prospective undergraduate researchers should [reach out to Prof. Hagenow](mailto:mhagenow@wisc.edu) with *[Prospective Undergrad]* in the subject line and include:
 - Your CV
+- A paragraph on why you want to join the lab
 - Past experiences in robotics/ML/engineering
 - Relevant skills from the ‘What Do We Look For in the Lab’ section
 - Any previous research experiences and your role in the research (note: this is not a requirement to join the lab)
-- A paragraph on why you want to join the lab
 - Whether you are interested in independent study credits
 
 ### Postdoctoral Researchers and Visiting Scholars
 
 We are not actively looking for any postdoctoral researchers or visiting scholars, however, if you are a strong fit for the RT² lab, please [email Prof. Hagenow](mailto:mhagenow@wisc.edu) with your CV, description of past research, goals in seeking a postdoc/visiting position, and funding situation (if applicable).
-
 
 
 <!-- Google tag (gtag.js) -->
