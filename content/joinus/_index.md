@@ -16,16 +16,28 @@ We are a full-stack robotics lab focused on designing technologies (algorithms, 
 <!-- You can find a copy of Prof. Hagenow’s advising statement [here](https://drive.google.com/file/d/1Bas8sE0B41a6UkjIMLP98X7avRUz0T6a/view?usp=sharing).  -->
 
 ### Prospective PhD and MS Students
-Prospective graduate students who are not currently at UW-Madison are encouraged to apply directly to the CS MS/PhD program. You can learn more about the program [here](https://www.cs.wisc.edu/grad/programs/admissions/). We are not able to admit students directly, so please follow the department’s admission guidelines. If you are interested in RT², please mention working with Prof. Mike Hagenow in your application. The graduate school offers a limited number of fee waivers (check [here]( https://grad.wisc.edu/apply/fee-grant/) to see if you are eligible).
 
-Once you have applied -- or if you are a current MS/PhD student -- please [email Prof. Hagenow](mailto:mhagenow@wisc.edu) with *[Prospective MS/PhD Student]* in the subject line and include:
-- Your CV
-- Past experiences in robotics/ML/engineering
-- Relevant skills from the ‘What Do We Look For in the Lab’ section
-- Any previous research publications – and your role in the research (note: this is not a requirement to join the lab)
-- A paragraph on why you want to join the lab
+> **### We're recruiting Ph.D. students! (for Fall 2026)**
+>
+> If you’re interested in joining RT², please apply to the **UW–Madison CS MS/PhD program (Due 12/15)**.  
+> Program details: https://www.cs.wisc.edu/grad/programs/admissions/  
+> Fee waiver info (if eligible): https://grad.wisc.edu/apply/fee-grant/
+>
+> **Application note:** If my name does not appear in the system, list **Prof. Mike Hagenow** under “Other” and mention me in your statement. 
+>
+> **After you apply**, or if you are already a UW student, email me with subject  
+> **\[Prospective MS/PhD Student\]**, including:
+> - Your CV
+> - Past experiences in robotics/ML/engineering
+> - Relevant skills from the ‘What Do We Look For in the Lab’ section
+> - Any previous research publications – and your role in the research (note: this is not a requirement to join the lab)
+> - A paragraph on why you want to join the lab
 
 Due to the high volume of interest, we may not be able to respond to every inquiry (though I will certainty do my best to do so).
+<!-- 
+Prospective graduate students who are not currently at UW-Madison are encouraged to apply directly to the CS MS/PhD program. You can learn more about the program [here](https://www.cs.wisc.edu/grad/programs/admissions/). We are not able to admit students directly, so please follow the department’s admission guidelines. If you are interested in RT², please mention working with Prof. Mike Hagenow in your application. The graduate school offers a limited number of fee waivers (check [here]( https://grad.wisc.edu/apply/fee-grant/) to see if you are eligible). -->
+
+<!-- Once you have applied -- or if you are a current MS/PhD student -- please [email Prof. Hagenow](mailto:mhagenow@wisc.edu) with *[Prospective MS/PhD Student]* in the subject line and include: -->
 
 I strongly encourage prospective students to apply for external support through fellowships. Fellowships are prestigious additions to your CV, and if awarded, they make it easier for PIs to recruit you to their lab (though I hope you choose RT^2). Fellowships can also offer greater flexibility in your research. If you have applied for or secured fellowship funding, please indicate it when you reach out. External support is not required to join the lab. After joining, I will support you in applying to programs where you are eligible and a good fit. Unfortunately, many of the graduate fellowships focus on domestic students. Some examples include: [NSF GRFP]( https://nsfgrfp.org/), [DOD NDSEG](https://ndseg.sysplus.com/), [NASA NSTGRO](https://www.nasa.gov/nasa-space-technology-graduate-research-opportunities-nstgro/), [Hertz Fellowship](https://www.hertzfoundation.org/the-fellowship/), [Ford Foundation Fellowship]( https://www.nationalacademies.org/our-work/ford-foundation-fellowships), [Meta PhD Fellowship]( https://metaresearchphdfellowship.smapply.io/), [NVIDIA Graduate Fellowships]( https://research.nvidia.com/graduate-fellowships), [Microsoft Research PhD Fellowship]( https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/).
 

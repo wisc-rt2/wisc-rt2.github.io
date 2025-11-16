@@ -18,6 +18,11 @@ Our lab develops *algorithms, interfaces, and full-stack robot systems*. A major
 
 Please check out the [Publications](/publications/) page to learn more about recently published research and visit the [Join Us](/joinus/) page if you are interested in getting involved in research.
 
+<video autoplay loop muted playsinline style="max-width: 100%; height: auto;">
+  <source src="/rt2_reel_website.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-QXB50E6325"></script>
