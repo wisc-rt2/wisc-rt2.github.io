@@ -4,7 +4,7 @@ hideTitle: true
 ---
 
 ## Joining the RT² Lab
-**RT² is recruiting MS/PhD students to start in Fall 2025 or Fall 2026!** We are a new lab looking for fantastic people to help shape our lab’s culture and research program.
+**RT² is recruiting MS/PhD students to start in Fall 2026!** We are a new lab looking for fantastic people to help shape our lab’s culture and research program.
 
 ### What Do We Look For in the Lab?
 We are a full-stack robotics lab focused on designing technologies (algorithms, interfaces, and systems) for people. Every project is different, but our work generally benefits from skills in both computer science and engineering. While not all of these skills are required -- we are excited to teach and work with students who are eager to learn -- the following will be useful for conducting research in our lab:
