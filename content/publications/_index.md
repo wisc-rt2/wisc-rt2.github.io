@@ -2,11 +2,11 @@
 title: ""
 ---
 
-We generally publish our research in top robotics venues<br> <i>(e.g., ICRA, IROS, Robotics & Automation Letters, Human-Robot Interaction)</i>.
+We generally publish our research in top robotics venues<br> <i>(e.g., Robotics & Automation Letters , Human-Robot Interaction, ICRA, IROS)</i>.
 
 <p>We aim to make our research broadly available by hosting publication pre-prints to arXiv. You can find an automatically generated list of pre-prints <u>below</u>.</p>
 
-<p> You can also find an up-to-date list of publications on <a href="https://scholar.google.com/citations?user=pvBZ1KAAAAAJ&hl=en"><b>Prof. Hagenow's google scholar</b></a> and please also subscribe to the <a href="https://youtube.com/@hagenowrobotics?si=_xWaS375kVWyoXUj"><b>RT² Lab Youtube Channel</b></a> for new research videos</a>. </p>
+<p> You can also find an up-to-date list of publications on <a href="https://scholar.google.com/citations?user=pvBZ1KAAAAAJ&hl=en"><b>Prof. Hagenow's google scholar</b></a> and please also subscribe to the <a href="https://www.youtube.com/@wisc-rt2"><b>RT² Lab Youtube Channel</b></a> for new research videos</a>. </p>
 
 <div id="arxivfeed" class="arxiv-wrapper"></div>
 
