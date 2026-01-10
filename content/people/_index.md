@@ -39,7 +39,7 @@ title: ""
 </div>
 
 <div style="flex: 1 1 30%; text-align: center;">
-  <img src="/people/brian.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <img src="/people/bhuyashi.jpg" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
   <h3>Bhuyashi Deka</h3>
   <p>Research Interest: Learning from Demonstration</p>
   <p>
