@@ -39,13 +39,13 @@ title: ""
 </div>
 
 <div style="flex: 1 1 30%; text-align: center;">
-  <img src="/people/brian.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
-  <h3>Brian Lee</h3>
-  <p>Research Interest: Shared Autonomy with Generative Models</p>
+  <img src="/people/bhuyashi.jpg" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <h3>Bhuyashi Deka</h3>
+  <p>Research Interest: Learning from Demonstration</p>
   <p>
-    <!-- <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp; -->
-      <a href="https://scholar.google.com/citations?user=DzKaK54AAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp;
-      <a href="mailto:dlee448@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
+    <a href="https://bhuyashi.github.io/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
+      <!-- <a href="https://scholar.google.com/citations?user=DzKaK54AAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp; -->
+      <a href="mailto:bdeka@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
   </p>
 </div>
 
@@ -143,7 +143,55 @@ title: ""
   </p>
 </div>
 
+<div style="flex: 1 1 30%; text-align: center;">
+  <img src="/people/grant.jpg" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <h3>Grant Gao</h3>
+  <!-- <p>Research Interest: TBD</p> -->
+  <p>
+    <a href="https://grantgao.netlify.app/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
+      <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=APjjwuavj3WIXdnn5-P9akwr4PnCMJzipD7xuAV-tMtvkexFa0geFX4lwP-gmRNgkoXxQcl1vO1tkhde2GiGdQ&user=dGixlLEAAAAJ" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp;
+      <a href="mailto:grantgao221@gmail.com" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
+  </p>
+</div>
 
+<div style="flex: 1 1 30%; text-align: center;">
+  <img src="/people/sam.jpg" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <h3>Sam Nesler</h3>
+  <!-- <p>Research Interest: TBD</p> -->
+  <p>
+    <a href="https://samnesler.com/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
+      <!-- <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=amdLJBQAAAAJ" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp; -->
+      <a href="mailto:samnesler@gmail.com" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
+  </p>
+</div>
+
+<div style="flex: 1 1 30%; text-align: center;">
+  <img src="/people/emma_z.jpg" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <h3>Emma Zhang</h3>
+  <!-- <p>Research Interest: TBD</p> -->
+  <p>
+    <!-- <a href="http://linkedin.com/in/t-stevenson" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp; -->
+      <!-- <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=amdLJBQAAAAJ" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp; -->
+      <a href="mailto:lzhang772@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
+  </p>
+</div>
+</div>
+
+## Visiting Researchers
+
+<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: flex-start;">
+
+<div style="flex: 1 1 30%; text-align: center;">
+  <img src="/people/alex.jpg" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <h3>Alex Cuellar</h3>
+  <p> PhD Student at MIT </p>
+  <p>Research Interest: human-robot collaboration</p>
+  <p>
+    <a href="https://interactive.mit.edu/about/people/alex-cuellar/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
+      <a href="https://scholar.google.com/citations?user=L1XFuz0AAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp;
+      <a href="mailto:alexcuel@mit.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
+  </p>
+</div>
 </div>
 
 ## Robots
