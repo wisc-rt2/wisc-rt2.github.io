@@ -66,7 +66,7 @@ title: ""
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: flex-start;">
 
-<div style="flex: 1 1 30%; text-align: center;">
+<!-- <div style="flex: 1 1 30%; text-align: center;">
   <img src="/people/ayush.jpg" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
   <h3>Ayush Kumar</h3>
   <!-- <p>Research Interest: TBD</p> -->
@@ -75,7 +75,7 @@ title: ""
       <!-- <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp; -->
       <a href="mailto:akumar249@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
   </p>
-</div>
+</div> -->
 
 <div style="flex: 1 1 30%; text-align: center;">
   <img src="/people/lindy.jpg" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
@@ -169,30 +169,25 @@ title: ""
 </div>
 </div>
 
+<div style="flex: 1 1 30%; text-align: center;">
+   <img src="/people/kilby.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <h3><a href="https://en.wikipedia.org/wiki/Jack_Kilby">ADD</a></h3>
+  <p><i>Universal Robots UR7e</i></p>
+</div>
+</div>
 
-<!-- ## RT² Alumni
+<div style="flex: 1 1 30%; text-align: center;">
+   <img src="/people/bardeen.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <h3><a href="https://en.wikipedia.org/wiki/John_Bardeen">ADD</a></h3>
+  <p><i>UFactory xArm 6</i></p>
+</div>
+</div>
 
-<ul style="list-style-type: none; padding-left: 0;">
-  <li style="display: flex; align-items: center; margin-bottom: 0.5rem;">
-    Alumnus #1, Ph.D.
-    <a href="https://example.com/johndoe" target="_blank" title="Website" style="margin-left: 10px;">
-      <i class="fas fa-globe"></i>
-    </a>
-  </li>
-  <li style="display: flex; align-items: center; margin-bottom: 0.5rem;">
-    Alumnus #2, M.S.
-    <a href="https://example.com/janesmith" target="_blank" title="Website" style="margin-left: 10px;">
-      <i class="fas fa-globe"></i>
-    </a>
-  </li>
-  <li style="display: flex; align-items: center; margin-bottom: 0.5rem;">
-    Alumnus #3, B.S.
-    <a href="https://example.com/another" target="_blank" title="Website" style="margin-left: 10px;">
-      <i class="fas fa-globe"></i>
-    </a>
-  </li>
-</ul> -->
 
+## RT² Alumni
+<ul>
+  <li>Ayush Kumar, <i>Undergraduate Researcher</i> → SAP</li>
+</ul>
 
 
 <!-- Google tag (gtag.js) -->
