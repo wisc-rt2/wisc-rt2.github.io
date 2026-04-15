@@ -66,16 +66,6 @@ title: ""
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: flex-start;">
 
-<!-- <div style="flex: 1 1 30%; text-align: center;">
-  <img src="/people/ayush.jpg" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
-  <h3>Ayush Kumar</h3>
-  <!-- <p>Research Interest: TBD</p> -->
-  <p>
-    <a href="https://www.linkedin.com/in/kumar-himself" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
-      <!-- <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp; -->
-      <a href="mailto:akumar249@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
-  </p>
-</div> -->
 
 <div style="flex: 1 1 30%; text-align: center;">
   <img src="/people/lindy.jpg" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
