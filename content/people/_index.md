@@ -205,20 +205,19 @@ title: ""
   <h3><a href="https://roboticsarchive.library.cmu.edu/node/100345?search_api_fulltext=navlab">Kanade</a></h3>
   <p><i>UFactory xArm 6</i></p>
 </div>
-</div>
 
 <div style="flex: 1 1 30%; text-align: center;">
    <img src="/people/kilby.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
-  <h3><a href="https://en.wikipedia.org/wiki/Jack_Kilby">ADD</a></h3>
+  <h3><a href="https://en.wikipedia.org/wiki/Jack_Kilby">Kilby</a></h3>
   <p><i>Universal Robots UR7e</i></p>
-</div>
 </div>
 
 <div style="flex: 1 1 30%; text-align: center;">
    <img src="/people/bardeen.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
-  <h3><a href="https://en.wikipedia.org/wiki/John_Bardeen">ADD</a></h3>
+  <h3><a href="https://en.wikipedia.org/wiki/John_Bardeen">Bardeen</a></h3>
   <p><i>UFactory xArm 6</i></p>
 </div>
+
 </div>
 
 
