@@ -195,7 +195,7 @@ title: ""
   <li>Ayush Kumar, <i>Undergraduate Researcher</i> → SAP</li>
 </ul>
 
-<div style="flex: 1 1 30%; text-align: center;">
+<!-- <div style="flex: 1 1 30%; text-align: center;">
   <img src="/people/bhuyashi.jpg" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
   <h3>Bhuyashi Deka</h3>
   <p>Research Interest: Learning from Demonstration</p>
@@ -204,7 +204,7 @@ title: ""
       <!-- <a href="https://scholar.google.com/citations?user=DzKaK54AAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp; -->
       <a href="mailto:bdeka@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
   </p>
-</div>
+</div> -->
 
 
 <!-- Google tag (gtag.js) -->
