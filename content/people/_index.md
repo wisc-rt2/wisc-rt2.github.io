@@ -38,17 +38,6 @@ title: ""
   </p>
 </div>
 
-<div style="flex: 1 1 30%; text-align: center;">
-  <img src="/people/bhuyashi.jpg" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
-  <h3>Bhuyashi Deka</h3>
-  <p>Research Interest: Learning from Demonstration</p>
-  <p>
-    <a href="https://bhuyashi.github.io/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
-      <!-- <a href="https://scholar.google.com/citations?user=DzKaK54AAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp; -->
-      <a href="mailto:bdeka@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
-  </p>
-</div>
-
 <!-- <div style="flex: 1 1 30%; text-align: center;">
   <img src="/people/placeholder.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
   <h3>Your name here!</h3>
@@ -65,29 +54,6 @@ title: ""
 ## Undergraduates
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: flex-start;">
-
-
-<div style="flex: 1 1 30%; text-align: center;">
-  <img src="/people/lindy.jpg" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
-  <h3>Lindy Chen</h3>
-  <!-- <p>Research Interest: TBD</p> -->
-  <p>
-    <a href="http://www.linkedin.com/in/lindyjchen" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
-      <!-- <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp; -->
-      <a href="mailto:ljchen2@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
-  </p>
-</div>
-
-<div style="flex: 1 1 30%; text-align: center;">
-  <img src="/people/letian.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
-  <h3>Letian Li</h3>
-  <!-- <p>Research Interest: TBD</p> -->
-  <p>
-    <a href="https://www.linkedin.com/in/letian-li-wa/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
-      <!-- <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp; -->
-      <a href="mailto:lli585@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
-  </p>
-</div>
 
 <div style="flex: 1 1 30%; text-align: center;">
   <img src="/people/leo-xu-headshot.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
@@ -223,8 +189,22 @@ title: ""
 
 ## RT² Alumni
 <ul>
+  <li>Letian Li, <i>Undergraduate Researcher</i>→ Google/Stanford MS</li>
+  <li>Bhuyashi Deka, <i>MS Researcher</i> → Apple</li>
+  <li>Lindy Chen, <i>Undergraduate Researcher</i></li>
   <li>Ayush Kumar, <i>Undergraduate Researcher</i> → SAP</li>
 </ul>
+
+<div style="flex: 1 1 30%; text-align: center;">
+  <img src="/people/bhuyashi.jpg" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <h3>Bhuyashi Deka</h3>
+  <p>Research Interest: Learning from Demonstration</p>
+  <p>
+    <a href="https://bhuyashi.github.io/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
+      <!-- <a href="https://scholar.google.com/citations?user=DzKaK54AAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp; -->
+      <a href="mailto:bdeka@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
+  </p>
+</div>
 
 
 <!-- Google tag (gtag.js) -->
