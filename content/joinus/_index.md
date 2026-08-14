@@ -4,7 +4,11 @@ hideTitle: true
 ---
 
 ## Joining the RT² Lab
-**RT² is recruiting MS/PhD students to start in Fall 2026!** We are a new lab looking for fantastic people to help shape our lab’s culture and research program.
+We are often looking for motivated and curious students to take on projects in human-robot teaming. Below we provide some specific advice to keep in mind when reaching out.
+
+```text
+2026-2027 updates: we will be looking for at most one new PhD student in the upcoming 2026-2027 cycle. As of fall, we are unlikely to have any undergraduate openings, but please feel to contact if you think you may be a great fit. In general, we prioritize students who have taken one of the undergraduate robotics course at UW-Madison (e.g., CS580, ME439).
+```
 
 ### What Do We Look For in the Lab?
 We are a full-stack robotics lab focused on designing technologies (algorithms, interfaces, and systems) for people. Every project is different, but our work generally benefits from skills in both computer science and engineering. While not all of these skills are required -- we are excited to teach and work with students who are eager to learn -- the following will be useful for conducting research in our lab:
@@ -17,7 +21,7 @@ We are a full-stack robotics lab focused on designing technologies (algorithms, 
 
 ### Prospective PhD and MS Students
 
-> **We're recruiting Ph.D. students (for Fall 2026)!**
+> **Application Instructions**
 >
 > If you’re interested in joining RT², please apply to the **UW–Madison CS MS/PhD program (Due 12/15)**.  
 > Program details: https://www.cs.wisc.edu/grad/programs/admissions/  
