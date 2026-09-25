@@ -155,7 +155,7 @@ title: ""
 </div>
 </div>
 
-## Visiting Researchers
+<!-- ## Visiting Researchers
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: flex-start;">
 
@@ -170,7 +170,7 @@ title: ""
       <a href="mailto:alexcuel@mit.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
   </p>
 </div>
-</div>
+</div> -->
 
 ## Robots
 
@@ -211,6 +211,7 @@ title: ""
 
 ## RT² Alumni
 <ul>
+  <li>Alex Cuellar, <i>Visiting Researcher (MIT PhD Student)</i></li>
   <li>Letian Li, <i>Undergraduate Researcher</i>→ Google/Stanford MS</li>
   <li>Bhuyashi Deka, <i>MS Researcher</i> → Apple</li>
   <li>Lindy Chen, <i>Undergraduate Researcher</i></li>
