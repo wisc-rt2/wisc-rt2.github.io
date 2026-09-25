@@ -38,16 +38,27 @@ title: ""
   </p>
 </div>
 
-<!-- <div style="flex: 1 1 30%; text-align: center;">
-  <img src="/people/placeholder.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
-  <h3>Your name here!</h3>
-  <p>Research Interest: TBD</p>
+<div style="flex: 1 1 30%; text-align: center;">
+  <img src="/people/gyanig.jpg" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <h3>Gyanig Kumar</h3>
+  <p>Research Interest: Physical Human-Robot Interaction</p>
   <p>
-    <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
-      <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp;
-      <a href="https://wisc-rt2.github.io/people/" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
+    <a href="http://gyanigk.github.io/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
+      <a href="https://scholar.google.com/citations?hl=en&user=g1kxkMUAAAAJ" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp;
+      <a href="gkumar33@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
   </p>
-</div> -->
+</div>
+
+<div style="flex: 1 1 30%; text-align: center;">
+  <img src="/people/bohan.png" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <h3>Bohan Yang</h3>
+  <p>Research Interest: Shared Autonomy and Interactive Learning</p>
+  <p>
+    <a href="http://whoisfrankyang.github.io/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
+      <!-- <a href="https://wisc-rt2.github.io/people/" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp; -->
+      <a href="byang349@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
+  </p>
+</div>
 
 </div>
 
@@ -96,6 +107,17 @@ title: ""
     <a href="http://linkedin.com/in/t-stevenson" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
       <!-- <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=amdLJBQAAAAJ" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp; -->
       <a href="mailto:tnstevenson@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
+  </p>
+</div>
+
+<div style="flex: 1 1 30%; text-align: center;">
+  <img src="/people/tingting.jpg" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <h3>Tingting Du</h3>
+  <!-- <p>Research Interest: TBD</p> -->
+  <p>
+    <a href="http://tingting-olivia-du.github.io/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
+      <a href="https://scholar.google.com/citations?user=j1rY310AAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp;
+      <a href="mailto:tdu35@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
   </p>
 </div>
 

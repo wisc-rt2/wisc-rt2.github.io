@@ -26,7 +26,6 @@ We are a full-stack robotics lab focused on designing technologies (algorithms, 
 > Program details: https://www.cs.wisc.edu/grad/programs/admissions/  
 > Fee waiver info (if eligible): https://grad.wisc.edu/apply/fee-grant/
 >
-> **Application note:** If my name does not appear in the system, list **Prof. Mike Hagenow** under “Other” and mention me in your statement. 
 
  **After you apply**, or if you are already a UW student, email me with subject  
  **\[Prospective MS/PhD Student\]**, including:
