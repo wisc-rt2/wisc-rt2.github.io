@@ -60,6 +60,17 @@ title: ""
   </p>
 </div>
 
+<div style="flex: 1 1 30%; text-align: center;">
+  <img src="/people/bobby.jpg" alt="Student 1" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
+  <h3>Bobby Peng</h3>
+  <p>Research Interest: Human-Robot Collaboration with Generative Models</p>
+  <p>
+    <a href="https://bobbypeng123.github.io/" target="_blank" title="Website"><i class="fas fa-globe"></i></a> &nbsp;
+      <a href="https://scholar.google.com/citations?user=O7sI_yoAAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a> &nbsp;
+      <a href="zpeng235@wisc.edu" title="Email"><i class="fas fa-envelope"></i></a> &nbsp;
+  </p>
+</div>
+
 </div>
 
 ## Undergraduates
